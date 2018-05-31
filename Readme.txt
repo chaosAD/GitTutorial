@@ -1,4 +1,4 @@
-Yeay! I study Git.
+Yeay! I study Git, but I think it is kind of complex.
 
 
 
