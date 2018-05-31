@@ -1,4 +1,4 @@
-Yeay! I study Git.
+Yeay! I study Git, and it is fun.
 
 
 
